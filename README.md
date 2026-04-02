@@ -8,8 +8,8 @@ Aku memiliki minat untuk berkarir di bidang **Data** dan **Machine Learning**. D
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Riz2693">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArmFriiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArmFriiz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Riz2693&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Riz2693&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
